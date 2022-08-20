@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Lê Minh Nhật
+- 🎓 I'm a student at UIT ( University of Information Technology - Vietnam National University Ho Chi Minh City )
+- 👀 I’m interested in new projects and modern technologies .
+- 🌱 I’m currently learning C/C++, JAVA , Python . 
+- 💞️ I’m looking to collaborate on all the tech forums so I can learn from everyone .
+- 📫 You can find me through the following contacts :
+-  Facebook :facebook.com/leminhnhat2
+-  Instagram:instagram.com/leminh2893
+-  Linkeden:linkedin.com/in/nhật-lê-8b8561249
+-  Email:minhnhat2k2135@gmail.com
+-  Phone:0707193002
