@@ -25,7 +25,7 @@ def kiemtramk(h):
 		print("Trung bình")
 	else:
 		print("Yếu")
-
+ 
 if __name__=="__main__":
 	
 	h=input("Nhập mật khẩu: ")
