@@ -1,6 +1,6 @@
 import random
 
-def suggest_password(password):
+def suggest_password(password):  
     uppers = [c for c in password if c.isupper()]
     lowers = [c for c in password if c.islower()]
     digits = [c for c in password if c.isdigit()]
